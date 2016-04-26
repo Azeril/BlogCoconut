@@ -1,6 +1,6 @@
 # Site settings
 title: Stardust Journal
-email: "azeril@126.com"
+email: ""
 description: "Photo Journal"
 url: "azeril.me"
 baseurl: 
@@ -13,8 +13,8 @@ share: true
 
 # Owner/author information
 owner:
-  name:   "Azeril"
-  avatar: Azeril.png
+  name:    "Azeril"
+  avatar:  Azeril.png
   favicon: Stardust.ico
   description: "明朝即長路 惜取此時心"
 
@@ -27,7 +27,7 @@ owner:
 comments :
   provider : disqus
   disqus :
-    short_name : ""
+    short_name : "azeril"
 
 # Internal nav
 nav:
