@@ -1,22 +1,22 @@
 # Site settings
-title: PHOTORAMA
-email: ""
+title: Stardust Journal
+email: "azeril@126.com"
 description: "Photo Journal"
-url: "http://sunbliss.github.io"
-baseurl: /photorama
-instagram_username: ""
-github_username:  ""
+url: "azeril.me"
+baseurl: 
+instagram_username: "azeril_lapland"
+github_username:  "Azeril"
 deviantart_username: ""
 flickr_username: ""
-discus_shortname: ""
+discus_shortname: "azeril"
 share: true
 
 # Owner/author information
 owner:
-  name:   "photorama"
-  avatar: avatar.png
-  favicon: favicon.ico
-  description: "Photo Journal"
+  name:   "Azeril"
+  avatar: Azeril.png
+  favicon: Stardust.ico
+  description: "明朝即長路 惜取此時心"
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -31,9 +31,9 @@ comments :
 
 # Internal nav
 nav:
- journal: "baseurl/journal/"
- gallery: "baseurl/gallery/"
- about: "baseurl/about/"
+ journal: "/journal/"
+ gallery: "/gallery/"
+ about: "/about/"
 
 # All translation keys
 translations:
